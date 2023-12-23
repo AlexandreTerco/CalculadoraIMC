@@ -27,13 +27,13 @@ Calculadora de IMC foi um aplicativo que desenvolvi para dar meus primeiros pass
 - Melhorar estilização do app
 
 ## Author
-Alexandre Lopes Terço (follow me on [LinkedIn](https://www.linkedin.com/in/xandeterco/)
+Alexandre Lopes Terço (follow me on [LinkedIn](https://www.linkedin.com/in/xandeterco/))
 
 ## License
 ```
 The MIT License (MIT)
 
-Copyright (c) 2021 Roque Buarque Junior
+Copyright (c) 2023 Alexandre Lopes Terço
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
